@@ -1,0 +1,39 @@
+
+/* section 1 */
+.vertical1 {
+  margin: 30px 270px 0 270px;
+}
+
+.icone-haut {
+  width: 40px;
+}
+
+.image-page {
+  display: flex;
+  justify-content: center;
+}
+
+.titre-page {
+  display: flex;
+  justify-content: center;
+  color: rgb(0, 179, 155);
+  font-family: "Work Sans", Arial, sans-serif;
+
+} 
+
+/* section 2 */
+
+.vertical2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+  margin: 10px 270px 10px 270px;
+}
+
+.horizontal1, .horizontal2 {
+  font-size: 16px;
+  font-family: Roboto, Arial, sans-serif;
+  color: #747474;
+  line-height: 25px;
+}
+
